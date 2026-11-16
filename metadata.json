@@ -1,0 +1,8 @@
+{
+  "name": "Nazim Dukan — ناظم دکان",
+  "description": "Visual POS, multi-channel inventory, digital Khata Udhaar ledger, client directory, and real-time analytics for Nazim Dukan Karyana store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
